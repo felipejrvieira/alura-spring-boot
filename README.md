@@ -10,4 +10,16 @@ Faça esse curso de Java API e:
 - Aprenda o estilo arquitetural REST
 - Use o Spring Data e Bean Validation
 
-Para testar a API, importe o arquivo testando-api.json no Insomnia.
+## Parte 2: Segurança da API, Cache e Monitoramento
+
+Faça esse curso de Java API e:
+
+- Pagine e ordene os resultados da API
+- Melhore desempenho com Spring Cache
+- Protege a API com Spring Security e JWT
+- Monitore os endpoints com Spring Boot Actuator e Admin
+- Documente a API com Swagger
+
+## Testando a API
+
+Importe o arquivo testando-api.json no [Insomnia](https://insomnia.rest/) e veja a API funcionando.
