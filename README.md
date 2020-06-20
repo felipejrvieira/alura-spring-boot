@@ -1,4 +1,6 @@
-# Curso Alura - Spring Boot Parte 1: Construa uma API Rest
+# Curso Alura - Spring Boot
+
+## Parte 1: Construa uma API Rest
 
 Faça esse curso de Java API e:
 
@@ -7,3 +9,5 @@ Faça esse curso de Java API e:
 - Acelere seu desenvolvimento web com ajuda do Spring Devtools
 - Aprenda o estilo arquitetural REST
 - Use o Spring Data e Bean Validation
+
+Para testar a API, importe o arquivo testando-api.json no Insomnia.
